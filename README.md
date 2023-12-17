@@ -2,12 +2,12 @@
 
 ### lab1 - single cycle
 
-![Screen Shot 2023-12-18 at 4.18.08 AM](https://hackmd.io/_uploads/ByqP5C3Ip.png)
+![l1](assets/1.png)
 
 ### lab2 - pipelined CPU
 
-![Screen Shot 2023-12-18 at 4.31.31 AM](https://hackmd.io/_uploads/HJEh902Ip.png)
+![l2](assets/2.png)
 
 ### lab3 - predictor
 
-![CPU Datapath](https://hackmd.io/_uploads/B1xF4bUrp.png)
+![l3](assets/3.png)

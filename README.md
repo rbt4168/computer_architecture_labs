@@ -8,13 +8,13 @@ In this lab, a single-cycle CPU design is likely explored. A single-cycle CPU co
 
 ### lab2 - pipelined CPU
 
-This lab probably delves into a pipelined CPU architecture. Unlike a single-cycle CPU, a pipelined CPU breaks down instruction execution into several stages (fetch, decode, execute, etc.), allowing multiple instructions to be processed simultaneously in different stages of the pipeline. This often leads to better performance by overlapping instruction execution.
+This lab delves into a pipelined CPU architecture. Unlike a single-cycle CPU, a pipelined CPU breaks down instruction execution into several stages (fetch, decode, execute, etc.), allowing multiple instructions to be processed simultaneously in different stages of the pipeline. This often leads to better performance by overlapping instruction execution.
 
 ![l2](assets/2.png)
 
 ### lab3 - predictor
 
-The third lab could be centered around a predictor, likely a branch predictor in the context of CPU design. Branch prediction is crucial in pipelined architectures to predict the outcome of branches (like if/else or loops) before their results are known, thereby reducing pipeline stalls.
+The third lab is centered around a predictor, likely a branch predictor in the context of CPU design. Branch prediction is crucial in pipelined architectures to predict the outcome of branches (like if/else or loops) before their results are known, thereby reducing pipeline stalls.
 
 ![l3](assets/3.png)
 

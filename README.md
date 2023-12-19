@@ -1,4 +1,4 @@
-# computer_organization_labs
+# Computer Architecture Labs
 
 ### lab1 - single cycle
 
